@@ -1,7 +1,7 @@
 docker wemo
 ========
 
-A docker container to run (ouimeaux)[https://github.com/iancmcc/ouimeaux] server.
+A docker container to run [ouimeaux](https://github.com/iancmcc/ouimeaux) server.
 
 Run it with
 
